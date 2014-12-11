@@ -18,7 +18,7 @@ public class MainActivity extends ActionBarActivity {
 		// TODO Auto-generated method stub
 		super.onStart();
 	}
-
+	
 	@Override
 	protected void onResume() {
 		// TODO Auto-generated method stub
